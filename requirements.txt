@@ -3,3 +3,4 @@ argparse
 pathlib
 python-dotenv
 requests
+tqdm

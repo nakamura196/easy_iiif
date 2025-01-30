@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/manifest.json",
+  "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
@@ -9,17 +9,17 @@
   },
   "items": [
     {
-      "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p1",
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p1",
       "type": "Canvas",
       "height": 4024,
       "width": 2748,
       "items": [
         {
-          "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/page/p1/1",
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/annotation/p1-image",
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p1-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -34,24 +34,24 @@
                   }
                 ]
               },
-              "target": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p1"
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p2",
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p2",
       "type": "Canvas",
       "height": 3995,
       "width": 2737,
       "items": [
         {
-          "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/page/p2/1",
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p2/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/annotation/p2-image",
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p2-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -66,7 +66,2055 @@
                   }
                 ]
               },
-              "target": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p2"
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p3",
+      "type": "Canvas",
+      "height": 4011,
+      "width": 2733,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p3-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0003/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0003",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p4",
+      "type": "Canvas",
+      "height": 3995,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p4-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0004/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0004",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p5",
+      "type": "Canvas",
+      "height": 4011,
+      "width": 2733,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p5-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0005/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0005",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p6",
+      "type": "Canvas",
+      "height": 3995,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p6/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p6-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0006/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0006",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p7",
+      "type": "Canvas",
+      "height": 4020,
+      "width": 2756,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p7/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p7-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0007/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0007",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p8",
+      "type": "Canvas",
+      "height": 3995,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p8/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p8-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0008/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0008",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p9",
+      "type": "Canvas",
+      "height": 4023,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p9/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p9-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0009/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0009",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p10",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p10/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p10-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0010/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0010",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p11",
+      "type": "Canvas",
+      "height": 4023,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p11/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p11-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0011/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0011",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p12",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p12/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p12-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0012/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0012",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p13",
+      "type": "Canvas",
+      "height": 4023,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p13/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p13-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0013/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0013",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p14",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p14/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p14-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0014/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0014",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p15",
+      "type": "Canvas",
+      "height": 4023,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p15/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p15-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0015/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0015",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p16",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p16/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p16-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0016/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0016",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p17",
+      "type": "Canvas",
+      "height": 4039,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p17/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p17-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0017/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0017",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p18",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p18/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p18-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0018/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0018",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p19",
+      "type": "Canvas",
+      "height": 4039,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p19/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p19-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0019/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0019",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p20",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p20/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p20-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0020/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0020",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p21",
+      "type": "Canvas",
+      "height": 4039,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p21/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p21-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0021/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0021",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p22",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p22/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p22-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0022/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0022",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p23",
+      "type": "Canvas",
+      "height": 4039,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p23/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p23-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0023/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0023",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p24",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p24/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p24-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0024/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0024",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p25",
+      "type": "Canvas",
+      "height": 4016,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p25/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p25-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0025/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0025",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p26",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p26/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p26-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0026/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0026",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p27",
+      "type": "Canvas",
+      "height": 4016,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p27/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p27-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0027/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0027",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p28",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p28/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p28-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0028/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0028",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p29",
+      "type": "Canvas",
+      "height": 4016,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p29/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p29-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0029/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0029",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p30",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p30/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p30-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0030/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0030",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p31",
+      "type": "Canvas",
+      "height": 4016,
+      "width": 2732,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p31/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p31-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0031/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0031",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p32",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p32/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p32-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0032/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0032",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p33",
+      "type": "Canvas",
+      "height": 4016,
+      "width": 2744,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p33/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p33-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0033/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0033",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p34",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p34/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p34-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0034/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0034",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p35",
+      "type": "Canvas",
+      "height": 4005,
+      "width": 2714,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p35/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p35-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0035/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0035",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p36",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p36/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p36-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0036/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0036",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p37",
+      "type": "Canvas",
+      "height": 4005,
+      "width": 2714,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p37/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p37-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0037/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0037",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p38",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p38/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p38-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0038/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0038",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p38"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p39",
+      "type": "Canvas",
+      "height": 4005,
+      "width": 2738,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p39/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p39-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0039/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0039",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p40",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p40/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p40-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0040/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0040",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p41",
+      "type": "Canvas",
+      "height": 4005,
+      "width": 2738,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p41/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p41-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0041/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0041",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p42",
+      "type": "Canvas",
+      "height": 4018,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p42/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p42-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0042/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0042",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p43",
+      "type": "Canvas",
+      "height": 4005,
+      "width": 2743,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p43/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p43-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0043/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0043",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p44",
+      "type": "Canvas",
+      "height": 4012,
+      "width": 2738,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p44/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p44-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0044/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0044",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p45",
+      "type": "Canvas",
+      "height": 4010,
+      "width": 2742,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p45/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p45-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0045/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0045",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p46",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2761,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p46/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p46-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0046/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0046",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p47",
+      "type": "Canvas",
+      "height": 4020,
+      "width": 2747,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p47/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p47-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0047/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0047",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p48",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2761,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p48/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p48-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0048/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0048",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p49",
+      "type": "Canvas",
+      "height": 4020,
+      "width": 2747,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p49/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p49-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0049/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0049",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p50",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2744,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p50/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p50-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0050/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0050",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p51",
+      "type": "Canvas",
+      "height": 4020,
+      "width": 2747,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p51/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p51-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0051/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0051",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p52",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2744,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p52/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p52-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0052/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0052",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p53",
+      "type": "Canvas",
+      "height": 3995,
+      "width": 2735,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p53/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p53-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0053/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0053",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p54",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2767,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p54/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p54-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0054/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0054",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p54"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p55",
+      "type": "Canvas",
+      "height": 3995,
+      "width": 2765,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p55/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p55-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0055/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0055",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p56",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2767,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p56/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p56-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0056/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0056",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p57",
+      "type": "Canvas",
+      "height": 4007,
+      "width": 2765,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p57/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p57-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0057/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0057",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p58",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2762,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p58/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p58-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0058/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0058",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p59",
+      "type": "Canvas",
+      "height": 4007,
+      "width": 2765,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p59/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p59-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0059/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0059",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p60",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2762,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p60/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p60-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0060/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0060",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p61",
+      "type": "Canvas",
+      "height": 4007,
+      "width": 2765,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p61/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p61-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0061/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0061",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p62",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2762,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p62/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p62-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0062/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0062",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p63",
+      "type": "Canvas",
+      "height": 4007,
+      "width": 2765,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p63/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p63-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0063/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0063",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p64",
+      "type": "Canvas",
+      "height": 4035,
+      "width": 2762,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p64/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p64-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0064/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0064",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p65",
+      "type": "Canvas",
+      "height": 4360,
+      "width": 3216,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p65/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p65-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0065/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0065",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p66",
+      "type": "Canvas",
+      "height": 4349,
+      "width": 3208,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/page/p66/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/annotation/p66-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0066/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0066",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/3/loc_2008427768v12/canvas/p66"
             }
           ]
         }

@@ -6,6 +6,7 @@ import sys
 import os
 from dotenv import load_dotenv
 import requests
+from tqdm import tqdm
 
 def load_data(base_path, field_id):
     """CSVファイルからデータを読み込む"""
@@ -51,7 +52,7 @@ def create_manifest(field_id, item_df, media_df, version="3"):
     
     manifest = {
         "@context": context,
-        "id": f"{host}/iiif/{field_id}/manifest.json",
+        "id": f"{host}/iiif/{version}/{field_id}/manifest.json",
         "type": "Manifest",
         "label": {"ja": [item['title']]} if version == "3" else {"@value": item['title'], "@language": "ja"},
         "items" if version == "3" else "sequences": []
@@ -64,14 +65,14 @@ def create_manifest(field_id, item_df, media_df, version="3"):
         }]
     
     # キャンバスを追加
-    for index, media in media_items.iterrows():
+    for index, media in tqdm(media_items.iterrows(), total=len(media_items), desc=f"{version}マニフェスト作成中"):
         # メディアタイプがIIIFの場合、info.jsonからサイズを取得
         width, height = (1000, 1000)  # デフォルト値
         if media['field_type'] == 'iiif':
             width, height = get_image_info(media['field_url'])
         
         canvas = {
-            "id": f"{host}/iiif/{field_id}/canvas/p{index + 1}",
+            "id": f"{host}/iiif/{version}/{field_id}/canvas/p{index + 1}",
             "type": "Canvas",
             "height": height,
             "width": width,
@@ -79,10 +80,10 @@ def create_manifest(field_id, item_df, media_df, version="3"):
         
         if version == "3":
             canvas["items"] = [{
-                "id": f"{host}/iiif/{field_id}/page/p{index + 1}/1",
+                "id": f"{host}/iiif/{version}/{field_id}/page/p{index + 1}/1",
                 "type": "AnnotationPage",
                 "items": [{
-                    "id": f"{host}/iiif/{field_id}/annotation/p{index + 1}-image",
+                    "id": f"{host}/iiif/{version}/{field_id}/annotation/p{index + 1}-image",
                     "type": "Annotation",
                     "motivation": "painting",
                     "body": {
@@ -95,7 +96,7 @@ def create_manifest(field_id, item_df, media_df, version="3"):
                             "profile": "level2"
                         }]
                     },
-                    "target": f"{host}/iiif/{field_id}/canvas/p{index + 1}"
+                    "target": f"{host}/iiif/{version}/{field_id}/canvas/p{index + 1}"
                 }]
             }]
         else:  # v2
@@ -112,7 +113,7 @@ def create_manifest(field_id, item_df, media_df, version="3"):
                         "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                 },
-                "on": f"{host}/iiif/{field_id}/canvas/p{index + 1}"
+                "on": f"{host}/iiif/{version}/{field_id}/canvas/p{index + 1}"
             }]
         
         if version == "3":
