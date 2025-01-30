@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "@value": "Genji monogatari",
+    "@language": "ja"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p1",
+          "type": "Canvas",
+          "height": 4024,
+          "width": 2748,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0001/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0001",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p1"
+            }
+          ]
+        },
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p2",
+          "type": "Canvas",
+          "height": 3995,
+          "width": 2737,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0002/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0002",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

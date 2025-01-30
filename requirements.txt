@@ -1,0 +1,5 @@
+pandas
+argparse
+pathlib
+python-dotenv
+requests

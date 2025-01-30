@@ -1,0 +1,76 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "Genji monogatari"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p1",
+      "type": "Canvas",
+      "height": 4024,
+      "width": 2748,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/annotation/p1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0001/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0001",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p2",
+      "type": "Canvas",
+      "height": 3995,
+      "width": 2737,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/annotation/p2-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0002/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2008427768v12:0002",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/easy_iiif/iiif/loc_2008427768v12/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
